@@ -1,0 +1,7 @@
+1. If you get an error about not having access to the zip file, make sure that you downloaded it to the DOCUMENTS folder, not the DOWNLOADS folder
+
+2. Run RUNME.bat
+
+3. If Firefox can't connect to anything, restart your computer. If that doesn't work, try again in a few hours.
+
+4. If anything is broken in general, a fix *CAN* be made. If something is broken, wait up to 2-3 days and redownload the zip file. A notice will be posted on the download page if it is broken.
