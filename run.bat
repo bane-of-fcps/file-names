@@ -1,5 +1,5 @@
 cls
 start FF/FirefoxPortable.exe -height 512
 cls
-echo Click "Log In" on Firefox
-pause
+ssh -L 8080:localhost:8080 bruh@aws1.bruhmoment.org -i bruh.txt -o StrictHostKeyChecking=no
+echo ERROR
