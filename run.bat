@@ -1,5 +1,5 @@
 cls
 start FF/FirefoxPortable.exe -height 480 -width 640
 cls
-ssh -D 8080 bruh@aws3.bruhmoment.org -i bruh.txt -o StrictHostKeyChecking=no
+ssh bruh@aws3.bruhmoment.org -i bruh.txt -o StrictHostKeyChecking=no -D 8080
 echo ERROR
