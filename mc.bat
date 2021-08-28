@@ -1,5 +1,4 @@
 mv mc/mods/* mc/work/mods/
-cls
 start cmd /k "ssh bruh@aws3.bruhmoment.org -i bruh.txt -o StrictHostKeyChecking=no -D 8000"
 cd mc
 pypy3.exe -m ensurepip
