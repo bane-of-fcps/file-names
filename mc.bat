@@ -1,4 +1,4 @@
-start cmd /k "ssh bruh@aws3.bruhmoment.org -i bruh.txt -o StrictHostKeyChecking=no -D 8000"
+start cmd /k "ssh bruh@aws4.bruhmoment.org -i bruh2.txt -o StrictHostKeyChecking=no -D 8000"
 cd mc
 pypy3.exe -m ensurepip
 pypy3.exe -m pip install pysocks
